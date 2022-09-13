@@ -33,7 +33,7 @@ const Landing = () => {
         </div>
       </div>
       {/* GIPHY GIF */}
-      <div className="ui padded tertiary center aligned segment">
+      {/* <div className="ui padded tertiary center aligned segment">
         <iframe
           src="https://giphy.com/embed/xUPJPuBSBM4GEMb7Ec"
           width="600"
@@ -42,7 +42,7 @@ const Landing = () => {
           className="giphy-embed"
           allowFullScreen
         ></iframe>
-      </div>
+      </div> */}
     </div>
   );
 };
